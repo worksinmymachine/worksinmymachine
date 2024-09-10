@@ -20,7 +20,6 @@
 
 📫 **How to Reach Me:**
 - Email: [sdharmatti18@gmail.com](mailto:sdharmatti18@gmail.com)
-- LinkedIn: [Your LinkedIn URL](url)
 - Twitter: [@sdharmatti181](https://twitter.com/sdharmatti181)
 
 ⚡ **Fun Fact:**
