@@ -1,7 +1,7 @@
 ### Hi there, I'm @worksinmymachine 👋
 
 👀 **About Me:**
-- I’m a Full Stack Developer with 2 years of experience, majorly in Angular, Java, and Spring Boot.
+- I’m a Full Stack Developer with 3 years of experience, majorly in Angular, Java, and Spring Boot.
 - Recently, I've developed a growing interest in React.
 - I am deeply passionate about AI/ML and am currently pursuing a work-integrated MTech in AI/ML from BITS Pilani.
 
